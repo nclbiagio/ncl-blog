@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/manifesto/</loc>
+    <loc>http://localhost:1313/ncl-blog/posts/manifesto/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/black-cat-post-mortem/</loc>
+    <loc>http://localhost:1313/ncl-blog/posts/black-cat-post-mortem/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/ncl-blog/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/about/</loc>
+    <loc>http://localhost:1313/ncl-blog/tags/about/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/canvas/</loc>
+    <loc>http://localhost:1313/ncl-blog/tags/canvas/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/ncl-blog/categories/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/game-dev/</loc>
+    <loc>http://localhost:1313/ncl-blog/tags/game-dev/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/gamedev/</loc>
+    <loc>http://localhost:1313/ncl-blog/categories/gamedev/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/js13kgames/</loc>
+    <loc>http://localhost:1313/ncl-blog/tags/js13kgames/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/manifesto/</loc>
+    <loc>http://localhost:1313/ncl-blog/tags/manifesto/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/meta/</loc>
+    <loc>http://localhost:1313/ncl-blog/categories/meta/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/personal/</loc>
+    <loc>http://localhost:1313/ncl-blog/tags/personal/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pinned/</loc>
+    <loc>http://localhost:1313/ncl-blog/tags/pinned/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pixel-art/</loc>
+    <loc>http://localhost:1313/ncl-blog/tags/pixel-art/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/post-mortem/</loc>
+    <loc>http://localhost:1313/ncl-blog/tags/post-mortem/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/ncl-blog/posts/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/ncl-blog/tags/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>http://localhost:1313/ncl-blog/posts/hello-world/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url>
 </urlset>

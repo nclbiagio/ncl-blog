@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ncl Dev Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/ncl-blog/tags/</link>
     <description>Recent content in Tags on Ncl Dev Blog</description>
     <generator>Hugo</generator>
     <language>it</language>
     <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ncl-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/tags/about/</link>
+      <link>http://localhost:1313/ncl-blog/tags/about/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/about/</guid>
+      <guid>http://localhost:1313/ncl-blog/tags/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Canvas</title>
-      <link>http://localhost:1313/tags/canvas/</link>
+      <link>http://localhost:1313/ncl-blog/tags/canvas/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/canvas/</guid>
+      <guid>http://localhost:1313/ncl-blog/tags/canvas/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Dev</title>
-      <link>http://localhost:1313/tags/game-dev/</link>
+      <link>http://localhost:1313/ncl-blog/tags/game-dev/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/game-dev/</guid>
+      <guid>http://localhost:1313/ncl-blog/tags/game-dev/</guid>
       <description></description>
     </item>
     <item>
       <title>Js13kGames</title>
-      <link>http://localhost:1313/tags/js13kgames/</link>
+      <link>http://localhost:1313/ncl-blog/tags/js13kgames/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/js13kgames/</guid>
+      <guid>http://localhost:1313/ncl-blog/tags/js13kgames/</guid>
       <description></description>
     </item>
     <item>
       <title>Manifesto</title>
-      <link>http://localhost:1313/tags/manifesto/</link>
+      <link>http://localhost:1313/ncl-blog/tags/manifesto/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/manifesto/</guid>
+      <guid>http://localhost:1313/ncl-blog/tags/manifesto/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal</title>
-      <link>http://localhost:1313/tags/personal/</link>
+      <link>http://localhost:1313/ncl-blog/tags/personal/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/personal/</guid>
+      <guid>http://localhost:1313/ncl-blog/tags/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Pinned</title>
-      <link>http://localhost:1313/tags/pinned/</link>
+      <link>http://localhost:1313/ncl-blog/tags/pinned/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pinned/</guid>
+      <guid>http://localhost:1313/ncl-blog/tags/pinned/</guid>
       <description></description>
     </item>
     <item>
       <title>Pixel Art</title>
-      <link>http://localhost:1313/tags/pixel-art/</link>
+      <link>http://localhost:1313/ncl-blog/tags/pixel-art/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pixel-art/</guid>
+      <guid>http://localhost:1313/ncl-blog/tags/pixel-art/</guid>
       <description></description>
     </item>
     <item>
       <title>Post Mortem</title>
-      <link>http://localhost:1313/tags/post-mortem/</link>
+      <link>http://localhost:1313/ncl-blog/tags/post-mortem/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/post-mortem/</guid>
+      <guid>http://localhost:1313/ncl-blog/tags/post-mortem/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,4 +1,4 @@
-baseURL = 'https://nclbiagio.github.io/'
+baseURL = 'https://nclbiagio.github.io/ncl-blog/'
 languageCode = 'it'
 title = 'Ncl Dev Blog'
 theme = 'ananke'

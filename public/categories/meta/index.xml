@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta on Ncl Dev Blog</title>
-    <link>http://localhost:1313/categories/meta/</link>
+    <link>http://localhost:1313/ncl-blog/categories/meta/</link>
     <description>Recent content in Meta on Ncl Dev Blog</description>
     <generator>Hugo</generator>
     <language>it</language>
     <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ncl-blog/categories/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Blog Manifesto</title>
-      <link>http://localhost:1313/posts/manifesto/</link>
+      <title>Who ...</title>
+      <link>http://localhost:1313/ncl-blog/posts/manifesto/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/manifesto/</guid>
-      <description>&lt;p&gt;🎮 &lt;strong&gt;My Blog Manifesto&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi, I’m Nicola — a web developer with a passion for retro pixel-art games, drawing, and writing stories of all kinds.&lt;br&gt;&#xA;This space is where I share what I build: projects, experiments, mistakes, and everything in between.&lt;br&gt;&#xA;Just real work and curiosity.&lt;/p&gt;&#xA;&lt;p&gt;My dream is simple: to create a real story with a solid plot.&lt;br&gt;&#xA;Whether it becomes a game, a short story, or something else doesn’t really matter.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/ncl-blog/posts/manifesto/</guid>
+      <description>&lt;p&gt;🎮 &lt;strong&gt;I am&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi, I’m Nicola — a web developer with a passion for retro pixel-art games, drawing, and writing stories of all kinds.&lt;br&gt;&#xA;This space is where I share what I build: projects, experiments, mistakes, and everything in between.&lt;br&gt;&#xA;Just curiosity, nothing serious.&lt;/p&gt;&#xA;&lt;p&gt;My dream is simple: to create a real story with a solid plot.&lt;br&gt;&#xA;Whether it becomes a game, a short story, or something else doesn’t really matter.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
