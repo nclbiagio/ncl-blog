@@ -2,7 +2,7 @@
 title: "Who ..."
 date: 2025-10-20
 weight: 1
-draft: true
+draft: false
 description: "Why I create, what I love, and the dream behind my work."
 tags: ["manifesto", "about", "personal", "pinned"]
 categories: ["meta"]
