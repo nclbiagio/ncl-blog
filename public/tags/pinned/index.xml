@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>. on Ncl Dev Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in . on Ncl Dev Blog</description>
+    <title>Pinned on Ncl Dev Blog</title>
+    <link>http://localhost:1313/tags/pinned/</link>
+    <description>Recent content in Pinned on Ncl Dev Blog</description>
     <generator>Hugo</generator>
     <language>it</language>
     <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/pinned/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Who ...</title>
+      <title>My Blog Manifesto</title>
       <link>http://localhost:1313/posts/manifesto/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/manifesto/</guid>
-      <description>&lt;p&gt;🎮 &lt;strong&gt;I am&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi, I’m Nicola — a web developer with a passion for retro pixel-art games, drawing, and writing stories of all kinds.&lt;br&gt;&#xA;This space is where I share what I build: projects, experiments, mistakes, and everything in between.&lt;br&gt;&#xA;Just curiosity, nothing serious.&lt;/p&gt;&#xA;&lt;p&gt;My dream is simple: to create a real story with a solid plot.&lt;br&gt;&#xA;Whether it becomes a game, a short story, or something else doesn’t really matter.&lt;/p&gt;</description>
+      <description>&lt;p&gt;🎮 &lt;strong&gt;My Blog Manifesto&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi, I’m Nicola — a web developer with a passion for retro pixel-art games, drawing, and writing stories of all kinds.&lt;br&gt;&#xA;This space is where I share what I build: projects, experiments, mistakes, and everything in between.&lt;br&gt;&#xA;Just real work and curiosity.&lt;/p&gt;&#xA;&lt;p&gt;My dream is simple: to create a real story with a solid plot.&lt;br&gt;&#xA;Whether it becomes a game, a short story, or something else doesn’t really matter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>🐈‍⬛ Post Mortem — The Black Cross-Cat (js13kGames 2025)</title>
@@ -21,13 +21,6 @@
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/black-cat-post-mortem/</guid>
       <description>&lt;h2 id=&#34;-introduction&#34;&gt;📝 Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This year, something special happened: after years of trying, I finally finished and submitted a game to &lt;strong&gt;js13kGames&lt;/strong&gt; — and it felt amazing.&lt;/p&gt;&#xA;&lt;p&gt;For anyone who’s never heard of it, js13kGames is a yearly web game jam where your entire game must fit in 13 KB zipped.&lt;br&gt;&#xA;No frameworks. No external assets. Just pure, creative, minimal code.&lt;br&gt;&#xA;Oh, and every year there’s a theme — this time it was &lt;strong&gt;“Black Cat.”&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

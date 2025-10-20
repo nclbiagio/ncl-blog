@@ -1,7 +1,21 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://nclbiagio.github.io/'
+languageCode = 'it'
+title = 'Ncl Dev Blog'
 theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[params]
+  author = "Ncl88"
+  description = "Un diario di idee, codice e pensieri."
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
