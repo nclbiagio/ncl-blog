@@ -2,7 +2,7 @@
 title: "🐈‍⬛ Post Mortem — The Black Cross-Cat (js13kGames 2025)"
 date: 2025-10-20
 weight: 2
-draft: true
+draft: false
 description: "Post mortem of my js13kGames 2025 entry — The Black Cross-Cat, a small game about cars, cats, and cursed clouds."
 tags: ["post mortem", "js13kGames", "game dev", "canvas", "pixel art", "pinned"]
 categories: ["gamedev"]
