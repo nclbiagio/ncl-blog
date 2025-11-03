@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/ncl-blog/posts/manifesto/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/ncl-blog/posts/diet-hard-post-mortem/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/ncl-blog/posts/black-cat-post-mortem/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -52,6 +55,18 @@
   </url><url>
     <loc>http://localhost:1313/ncl-blog/tags/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ncl-blog/tags/gamedev/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ncl-blog/tags/gamedevjsjam2025/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ncl-blog/tags/phaser/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ncl-blog/tags/postmortem/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ncl-blog/posts/hello-world/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>

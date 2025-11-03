@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phaser on Ncl Dev Blog</title>
+    <link>http://localhost:1313/ncl-blog/tags/phaser/</link>
+    <description>Recent content in Phaser on Ncl Dev Blog</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ncl-blog/tags/phaser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diet Hard – Post Mortem</title>
+      <link>http://localhost:1313/ncl-blog/posts/diet-hard-post-mortem/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ncl-blog/posts/diet-hard-post-mortem/</guid>
+      <description>&lt;h2 id=&#34;diet-hard--post-mortem&#34;&gt;Diet Hard – Post Mortem&lt;/h2&gt;&#xA;&lt;p&gt;For the &lt;strong&gt;Gamedev JS Jam 2025&lt;/strong&gt;, I submitted my small and slightly silly game called &lt;strong&gt;Diet Hard&lt;/strong&gt;.&lt;br&gt;&#xA;The jam’s theme was &lt;strong&gt;“Balance”&lt;/strong&gt;, and I decided to participate in the &lt;strong&gt;Phaser&lt;/strong&gt; category since I developed the game using &lt;strong&gt;PhaserJS&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In the overall jam ranking, I placed &lt;strong&gt;180th out of 420&lt;/strong&gt; submissions.&lt;br&gt;&#xA;But in the Phaser category, I proudly reached &lt;strong&gt;10th place&lt;/strong&gt;, and that already made the whole experience worth it!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
