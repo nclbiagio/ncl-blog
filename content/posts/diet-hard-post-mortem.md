@@ -1,8 +1,7 @@
 ---
 title: "Diet Hard – Post Mortem"
-date: 2025-05-01
-weight: 2
-draft: true
+date: 2025-07-01
+draft: false
 tags: ["gamedev", "postmortem", "phaser", "gamedevjsjam2025", "pinned"]
 categories: ["gamedev"]
 type: "post"

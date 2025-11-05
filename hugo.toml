@@ -6,7 +6,7 @@ theme = 'ananke'
   [caches.images]
     dir = ':cacheDir/images'
 [params]
-  author = "Ncl88"
+  author = "Ncl"
   description = "Un diario di idee, codice e pensieri."
 [menu]
   [[menu.main]]

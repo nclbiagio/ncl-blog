@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/ncl-blog/tags/js13kgames/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🐈‍⬛ Post Mortem — The Black Cross-Cat (js13kGames 2025)</title>
-      <link>http://localhost:1313/ncl-blog/posts/black-cat-post-mortem/</link>
+      <link>http://localhost:1313/ncl-blog/posts/post-mortem-the-black-cross-cat-js13kgames-2025/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ncl-blog/posts/black-cat-post-mortem/</guid>
+      <guid>http://localhost:1313/ncl-blog/posts/post-mortem-the-black-cross-cat-js13kgames-2025/</guid>
       <description>&lt;h2 id=&#34;-introduction&#34;&gt;📝 Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This year, something special happened: after years of trying, I finally finished and submitted a game to &lt;strong&gt;js13kGames&lt;/strong&gt; — and it felt amazing.&lt;/p&gt;&#xA;&lt;p&gt;For anyone who’s never heard of it, js13kGames is a yearly web game jam where your entire game must fit in 13 KB zipped.&lt;br&gt;&#xA;No frameworks. No external assets. Just pure, creative, minimal code.&lt;br&gt;&#xA;Oh, and every year there’s a theme — this time it was &lt;strong&gt;“Black Cat.”&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

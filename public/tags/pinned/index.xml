@@ -16,18 +16,18 @@
       <description>&lt;p&gt;🎮 &lt;strong&gt;I am&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi, I’m Nicola — a web developer with a passion for retro pixel-art games, drawing, and writing stories of all kinds.&lt;br&gt;&#xA;This space is where I share what I build: projects, experiments, mistakes, and everything in between.&lt;br&gt;&#xA;Just curiosity, nothing serious.&lt;/p&gt;&#xA;&lt;p&gt;My dream is simple: to create a real story with a solid plot.&lt;br&gt;&#xA;Whether it becomes a game, a short story, or something else doesn’t really matter.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Diet Hard – Post Mortem</title>
-      <link>http://localhost:1313/ncl-blog/posts/diet-hard-post-mortem/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ncl-blog/posts/diet-hard-post-mortem/</guid>
-      <description>&lt;h2 id=&#34;diet-hard--post-mortem&#34;&gt;Diet Hard – Post Mortem&lt;/h2&gt;&#xA;&lt;p&gt;For the &lt;strong&gt;Gamedev JS Jam 2025&lt;/strong&gt;, I submitted my small and slightly silly game called &lt;strong&gt;Diet Hard&lt;/strong&gt;.&lt;br&gt;&#xA;The jam’s theme was &lt;strong&gt;“Balance”&lt;/strong&gt;, and I decided to participate in the &lt;strong&gt;Phaser&lt;/strong&gt; category since I developed the game using &lt;strong&gt;PhaserJS&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In the overall jam ranking, I placed &lt;strong&gt;180th out of 420&lt;/strong&gt; submissions.&lt;br&gt;&#xA;But in the Phaser category, I proudly reached &lt;strong&gt;10th place&lt;/strong&gt;, and that already made the whole experience worth it!&lt;/p&gt;</description>
+      <title>🐈‍⬛ Post Mortem — The Black Cross-Cat (js13kGames 2025)</title>
+      <link>http://localhost:1313/ncl-blog/posts/post-mortem-the-black-cross-cat-js13kgames-2025/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ncl-blog/posts/post-mortem-the-black-cross-cat-js13kgames-2025/</guid>
+      <description>&lt;h2 id=&#34;-introduction&#34;&gt;📝 Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This year, something special happened: after years of trying, I finally finished and submitted a game to &lt;strong&gt;js13kGames&lt;/strong&gt; — and it felt amazing.&lt;/p&gt;&#xA;&lt;p&gt;For anyone who’s never heard of it, js13kGames is a yearly web game jam where your entire game must fit in 13 KB zipped.&lt;br&gt;&#xA;No frameworks. No external assets. Just pure, creative, minimal code.&lt;br&gt;&#xA;Oh, and every year there’s a theme — this time it was &lt;strong&gt;“Black Cat.”&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>🐈‍⬛ Post Mortem — The Black Cross-Cat (js13kGames 2025)</title>
-      <link>http://localhost:1313/ncl-blog/posts/black-cat-post-mortem/</link>
-      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ncl-blog/posts/black-cat-post-mortem/</guid>
-      <description>&lt;h2 id=&#34;-introduction&#34;&gt;📝 Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This year, something special happened: after years of trying, I finally finished and submitted a game to &lt;strong&gt;js13kGames&lt;/strong&gt; — and it felt amazing.&lt;/p&gt;&#xA;&lt;p&gt;For anyone who’s never heard of it, js13kGames is a yearly web game jam where your entire game must fit in 13 KB zipped.&lt;br&gt;&#xA;No frameworks. No external assets. Just pure, creative, minimal code.&lt;br&gt;&#xA;Oh, and every year there’s a theme — this time it was &lt;strong&gt;“Black Cat.”&lt;/strong&gt;&lt;/p&gt;</description>
+      <title>Diet Hard – Post Mortem</title>
+      <link>http://localhost:1313/ncl-blog/posts/diet-hard-post-mortem/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ncl-blog/posts/diet-hard-post-mortem/</guid>
+      <description>&lt;h2 id=&#34;diet-hard--post-mortem&#34;&gt;Diet Hard – Post Mortem&lt;/h2&gt;&#xA;&lt;p&gt;For the &lt;strong&gt;Gamedev JS Jam 2025&lt;/strong&gt;, I submitted my small and slightly silly game called &lt;strong&gt;Diet Hard&lt;/strong&gt;.&lt;br&gt;&#xA;The jam’s theme was &lt;strong&gt;“Balance”&lt;/strong&gt;, and I decided to participate in the &lt;strong&gt;Phaser&lt;/strong&gt; category since I developed the game using &lt;strong&gt;PhaserJS&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In the overall jam ranking, I placed &lt;strong&gt;180th out of 420&lt;/strong&gt; submissions.&lt;br&gt;&#xA;But in the Phaser category, I proudly reached &lt;strong&gt;10th place&lt;/strong&gt;, and that already made the whole experience worth it!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

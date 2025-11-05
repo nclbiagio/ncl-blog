@@ -1,13 +1,15 @@
 ---
 title: "🐈‍⬛ Post Mortem — The Black Cross-Cat (js13kGames 2025)"
 date: 2025-10-20
-weight: 3
+weight: 2
 draft: false
 description: "Post mortem of my js13kGames 2025 entry — The Black Cross-Cat, a small game about cars, cats, and cursed clouds."
 tags: ["post mortem", "js13kGames", "game dev", "canvas", "pixel art", "pinned"]
 categories: ["gamedev"]
 type: "post"
 featured_image: "/images/black-cross-cat-banner.png"
+slug: "post-mortem-the-black-cross-cat-js13kgames-2025"
+keywords: ["js13k", "game jam", "canvas game", "post mortem", "indie dev"]
 ---
 
 ## 📝 Introduction
@@ -35,6 +37,8 @@ If you run one over, you lose a life — and a cute but slightly cursed *“bad 
 These clouds aren’t images — I built them entirely with **particles**, which was way harder than I expected. Getting the look right, making them feel animated and floaty... it was a real challenge, but also one of the parts I learned the most from.
 
 You can **play the game here:** 👉 [https://js13kgames.com/2025/games/the-black-cross-cat](https://js13kgames.com/2025/games/the-black-cross-cat)
+
+> 🧪 **Nota:** TThe Black Cross-Cat is still very much a prototype! Some mechanics — like what happens when a cat hits the car while it’s not moving — still need improvement: the cat shouldn’t actually die or trigger a dramatic death animation in that specific situation, even though the player should still get a penalty.
 
 ---
 
@@ -81,6 +85,14 @@ You can **play the game here:** 👉 [https://js13kgames.com/2025/games/the-blac
 
 - **A creative partner is priceless.**  
   Building this with my wife made the process joyful, not just stressful. That’s something I want to carry forward.
+
+---
+
+## 🛠️ Future Improvements
+
+- Improve collision behavior when the car is not moving: cats shouldn’t die or trigger dramatic animations, but the player should still receive a penalty.
+- Add more visual variety and effects to the bad luck clouds.
+- Enhance cat AI to make crossing patterns less predictable.
 
 ---
 
